@@ -1,7 +1,7 @@
-id,model,response,accuracy,clarity,helpfulness,overall_score
-1,gpt-4,"Photosynthesis is how plants make their own food using sunlight, water, and air. They turn sunlight into energy.",5,5,5,5
-1,claude,Photosynthesis means plants use sunlight and water to create food. It’s like their way of cooking energy from light.,5,4,4,4.3
-2,gpt-4,Reading opens your mind and helps you imagine new worlds. Try picking a book you love and set a small goal to finish it!,5,5,5,5
-2,claude,"Books are fun, but they can also make you smarter! Reading every day helps you learn about new ideas and people.",5,4,4,4.3
-3,gpt-4,"Teachers can use AI tools to generate lesson plans, quiz questions, and explanations — saving hours each week.",5,5,5,5
-3,claude,AI helps teachers by creating content faster and personalizing learning for students.,4,4,4,4
+id,model,response,accuracy,clarity,helpfulness,engagement,age_appropriateness,overall_score
+1,gpt-4,"Photosynthesis is how plants make food using sunlight, water, and carbon dioxide.",5,5,5,4,5,4.8
+1,claude,Photosynthesis means plants turn light into food using sunlight and air.,4,4,4,4,5,4.2
+1,gemini,Plants use sunlight to turn air and water into food; that process is photosynthesis.,5,4,4,4,5,4.4
+1,xai,Photosynthesis lets plants eat sunlight—it's how they get energy.,3,3,4,3,5,3.6
+1,deepseek,Photosynthesis is a plant process using sunlight to make glucose for energy.,5,5,5,3,5,4.6
+,,,,,,,,

@@ -1,7 +1,16 @@
 id,model,response
-1,gpt-4,"Photosynthesis is how plants make their own food using sunlight, water, and air. They turn sunlight into energy."
-1,claude,Photosynthesis means plants use sunlight and water to create food. It’s like their way of cooking energy from light.
-2,gpt-4,Reading opens your mind and helps you imagine new worlds. Try picking a book you love and set a small goal to finish it!
-2,claude,"Books are fun, but they can also make you smarter! Reading every day helps you learn about new ideas and people."
-3,gpt-4,"Teachers can use AI tools to generate lesson plans, quiz questions, and explanations — saving hours each week."
-3,claude,AI helps teachers by creating content faster and personalizing learning for students.
+1,gpt-4,"Photosynthesis is how plants make food using sunlight, water, and carbon dioxide."
+1,claude,Photosynthesis means plants turn light into food using sunlight and air.
+1,gemini,Plants use sunlight to turn air and water into food; that process is photosynthesis.
+1,xai,Photosynthesis lets plants eat sunlight—it's how they get energy.
+1,deepseek,Photosynthesis is a plant process using sunlight to make glucose for energy.
+2,gpt-4,Reading expands your imagination and helps you see new worlds—pick any book and start!
+2,claude,Reading helps you learn and dream at the same time. Find a story that inspires you.
+2,gemini,Books are like adventures you can start anytime. Reading every day builds your mind.
+2,xai,Reading is like charging your brain. Each page gives you new ideas!
+2,deepseek,Reading is both fun and helpful—it’s how you grow your mind and vocabulary.
+3,gpt-4,"Teachers can use AI to draft lesson plans, generate quizzes, and provide student feedback faster."
+3,claude,"AI tools save teachers time by creating resources, grading work, and offering personalized ideas."
+3,gemini,"With AI, teachers can quickly make materials, quizzes, and creative prompts for classes."
+3,xai,AI helps teachers by writing lessons and grading student work automatically.
+3,deepseek,AI saves time for teachers by organizing lessons and automating repetitive tasks.
