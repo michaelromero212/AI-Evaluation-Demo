@@ -1,14 +1,12 @@
 [
-  {
-    "id": 1,
-    "prompt": "Explain photosynthesis in simple terms for a 5th grader."
-  },
-  {
-    "id": 2,
-    "prompt": "Write a short paragraph encouraging students to read more books."
-  },
-  {
-    "id": 3,
-    "prompt": "Describe how teachers can use AI to save time on lesson planning."
-  }
+  {"id": 1, "prompt": "Explain photosynthesis in simple terms for a 5th grader."},
+  {"id": 2, "prompt": "Write a short paragraph encouraging students to read more books."},
+  {"id": 3, "prompt": "Describe how teachers can use AI to save time on lesson planning."},
+  {"id": 4, "prompt": "Summarize the causes of the American Revolution for an 8th-grade history class."},
+  {"id": 5, "prompt": "Write a math word problem suitable for a 6th grader involving fractions."},
+  {"id": 6, "prompt": "Give feedback on this student essay opening: 'Technology is good, but sometimes bad.'"},
+  {"id": 7, "prompt": "Explain gravity in a way a 4th grader would understand."},
+  {"id": 8, "prompt": "List three classroom activities that promote teamwork among high school students."},
+  {"id": 9, "prompt": "Generate a multiple-choice quiz with 3 questions on climate change."},
+  {"id": 10, "prompt": "Suggest ways to make online learning more engaging for middle school students."}
 ]
